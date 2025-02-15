@@ -69,6 +69,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any queries, feel free to contact:
-- Email: anusomepalli.gmail@example.com
+- Email: anusomepalli@gmail.com
 - GitHub: [Anugna15](https://github.com/Anugna15)
 
